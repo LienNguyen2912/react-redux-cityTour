@@ -5,3 +5,7 @@
 
 ### Publish
 https://react-redux-city-tours.netlify.app/
+
+### Reference
+https://www.youtube.com/watch?v=HfJjzmSaLuQ&list=PLZiMcJesX8m2udSVQTimsjjRtNxk3-R8C&index=2
+https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG

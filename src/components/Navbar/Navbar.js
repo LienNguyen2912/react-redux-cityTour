@@ -2,7 +2,7 @@
 import React from 'react'
 import './Navbar.scss'
 import logo from '../../logo.png'
-import {Link, NavLink, withRouter} from 'react-router-dom'
+import { NavLink, withRouter} from 'react-router-dom'
 
 function Navbar() {
     return (

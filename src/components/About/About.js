@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
     return (
         <div>
-            <h2>Hell from About</h2>
+            <h2>This is very beginner level for React development</h2>
         </div>
     )
 }
